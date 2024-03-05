@@ -53,7 +53,3 @@ pip install pandas numpy matplotlib seaborn
 
 ## License
 This project is licensed under the MIT License.
-
-
-Datos de educacion: https://data.unicef.org/
-Countries code de: https://github.com/lukes/ISO-3166-Countries-with-Regional-Codes
